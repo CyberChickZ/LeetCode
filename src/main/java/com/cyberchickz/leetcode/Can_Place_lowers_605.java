@@ -1,16 +1,6 @@
 package com.cyberchickz.leetcode;
 
 public class Can_Place_lowers_605 {
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-//        System.out.println(solution.canPlaceFlowers(new int[]{1, 0, 0, 0, 1}, 1));
-//        System.out.println(solution.canPlaceFlowers(new int[]{0, 0, 1, 0, 1}, 1));
-        System.out.println(solution.canPlaceFlowers(new int[]{1, 0, 0, 0, 0, 1}, 2));
-
-    }
-}
-
-class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int left = flowerbed[0] == 0 ? -1 : 0;
         int right = 0;
@@ -30,7 +20,6 @@ class Solution {
         return n <= 0;
     }
 
-    // @ * * * * * * * @
     public int plantAndReturnVolume(int left, int right, int n) {
         int zeros = (right - left + 1);
         if (zeros - 2 <= 0) {
