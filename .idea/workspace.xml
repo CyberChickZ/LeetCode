@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad719f3-0df8-4da8-ba9a-0404950cdc8b" name="Changes" comment="9/25 daily x2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyberchickz/leetcode/Beautiful_Arrangement_526.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyberchickz/leetcode/Is_Anagram_242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyberchickz/leetcode/Shortest_Unsorted_Continuous_Subarray_581.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyberchickz/leetcode/Two_Sum_1.java" afterDir="false" />
+    <list default="true" id="3ad719f3-0df8-4da8-ba9a-0404950cdc8b" name="Changes" comment="10/5 daily x2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyberchickz/leetcode/Anagram_Groups_49.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Find_K_Closest_Elements_658.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Palindromic_Substrings_647.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cyberchickz/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cyberchickz/leetcode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +86,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Can_Place_lowers_605">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Can_Place_lowers_605" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cyberchickz.leetcode.Can_Place_lowers_605" />
       <module name="LeetCode" />
@@ -111,8 +107,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyberchickz.leetcode.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyberchickz.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Can_Place_lowers_605" />
         <item itemvalue="Application.Find_K_Closest_Elements_658" />
       </list>
@@ -138,7 +148,7 @@
       <workItem from="1727204437556" duration="34089000" />
       <workItem from="1727483465418" duration="2099000" />
       <workItem from="1727673549838" duration="2499000" />
-      <workItem from="1728074753928" duration="10094000" />
+      <workItem from="1728074753928" duration="12778000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project setup with basic configurations">
       <option name="closed" value="true" />
@@ -164,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727311608453</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="10/5 daily x2">
+      <option name="closed" value="true" />
+      <created>1728179580226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728179580226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="10/5 daily x2">
+      <option name="closed" value="true" />
+      <created>1728179588576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728179588576</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +201,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Initial project setup with basic configurations" />
     <MESSAGE value="9/25 daily x2" />
-    <option name="LAST_COMMIT_MESSAGE" value="9/25 daily x2" />
+    <MESSAGE value="10/5 daily x2" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/5 daily x2" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
